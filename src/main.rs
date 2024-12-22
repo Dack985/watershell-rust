@@ -1,3 +1,6 @@
+mod udp;
+mod tcp;
+mod utils;
 mod watershell;
 
 use watershell::Watershell;
